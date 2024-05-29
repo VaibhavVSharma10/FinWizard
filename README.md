@@ -2,11 +2,12 @@
 
 Welcome to the FinWizard Chatbot repository! This project delves into the fascinating world of Gen AI and chatbots, specifically focusing on creating an intelligent chatbot tailored for investment banking scenarios. The chatbot leverages Intel's Neural Chat LLM, Langchain orchestration, and cutting-edge technologies to provide detailed and relevant responses to user queries.
 
+
 Features
 
-    Utilizes Intel's Neural Chat LLM and Langchain orchestration for intelligent responses and efficient processing.
-    Integrates BGE Embeddings and Chroma DB for robust database handling and enhanced chatbot capabilities.
-    Incorporates Flask and FastAPI for backend development, ensuring an engaging end-to-end user experience.
+    Developed an FinWizard RAG APP as an end-to-end application using Intel's Neural Chat LLM and Langchain orchestration for detailed responses and efficient processing.
+    Integrated BGE Embeddings and Chroma DB for robust database handling, enhancing chatbot capabilities.
+    Developed a user-friendly conversational interface and utilized Flask and FastAPI for backend development, ensuring an engaging end-to-end user experience.
 
 Use Cases
 
