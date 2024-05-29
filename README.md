@@ -5,7 +5,7 @@ Welcome to the FinWizard Chatbot repository! This project delves into the fascin
 
 Features
 
-    Developed an FinWizard RAG APP as an end-to-end application using Intel's Neural Chat LLM and Langchain orchestration for detailed responses and efficient processing.
+    Developed a FinWizard RAG APP as an end-to-end application extracting data from multiple documents using Intel's Neural Chat LLM and Langchain orchestration for detailed responses and efficient processing.
     Integrated BGE Embeddings and Chroma DB for robust database handling, enhancing chatbot capabilities.
     Developed a user-friendly conversational interface and utilized Flask and FastAPI for backend development, ensuring an engaging end-to-end user experience.
 
